@@ -1,1 +1,1 @@
-# CP321-Data-Visualization
+# Canada unemployment rate and wages visualizations
